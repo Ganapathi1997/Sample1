@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14260" started-at="2021-04-12T11:03:54Z" finished-at="2021-04-12T11:04:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14260" started-at="2021-04-12T11:03:54Z" finished-at="2021-04-12T11:04:08Z">
+      <class name="org.task.amazon">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.task.amazon@5e5792a0]" name="beforeClass" is-config="true" duration-ms="10930" started-at="2021-04-12T16:33:54Z" finished-at="2021-04-12T16:34:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.task.amazon@5e5792a0]" name="test1" duration-ms="3303" started-at="2021-04-12T16:34:05Z" finished-at="2021-04-12T16:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- org.task.amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
